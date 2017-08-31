@@ -1,0 +1,2 @@
+# furry-guide
+Empty-Project
